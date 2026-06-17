@@ -30,11 +30,11 @@
 
 ## 👨‍💻 About Me
 
-🔹 Senior iOS Developer with 10+ years building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit
-🔹 Strong focus on **MVVM architecture, Combine, and Core Data**
-🔹 Deep experience in **Health & Fitness apps**, including HealthKit integrations
-🔹 Set up and maintained **CI/CD pipelines** for smooth, reliable app delivery
-🔹 Currently at **Think Verse Lab Pvt Ltd**, based in Noida, India
+- 🔹 Senior iOS Developer with 10+ years building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit
+- 🔹 Strong focus on **MVVM architecture, Combine, and Core Data**
+- 🔹 Deep experience in **Health & Fitness apps**, including HealthKit integrations
+- 🔹 Set up and maintained **CI/CD pipelines** for smooth, reliable app delivery
+- 🔹 Currently at **Think Verse Lab Pvt Ltd**, based in Noida, India
 
 ---
 
