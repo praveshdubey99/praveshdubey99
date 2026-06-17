@@ -3,18 +3,20 @@
 <a href="https://www.linkedin.com/in/pravesh-dubey-ios/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://praveshdubey99.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="mailto:praveshdubey99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<img src="https://komarev.com/ghpvc/?username=praveshdubey99&style=for-the-badge&color=blueviolet&label=Profile+Views">
-</div>
-<br>
-👋 About Me
+<h1 align="center">Hi 👋, I'm Pravesh Dubey</h1>
+<h3 align="center">Senior iOS Developer | 10+ Years in Native iOS (Swift, SwiftUI, Objective-C, UIKit) | MVVM, Combine, Core Data | HealthKit | CI/CD</h3>
 
-I'm a Senior iOS Developer with 10+ years of experience building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit. I specialize in clean MVVM architecture, reactive code with Combine, and robust local persistence with Core Data.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pravesh-dubey-ios/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pravesh%20Dubey-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://praveshdubey99.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="mailto:praveshdubey99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 * 🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
 * ⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
