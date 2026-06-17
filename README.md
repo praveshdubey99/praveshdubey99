@@ -1,17 +1,38 @@
-<h1 align="center">Hi 👋, I'm Pravesh Dubey</h1>
-<h3 align="center">Senior iOS Developer | 10+ Years in Native iOS (Swift, SwiftUI, Objective-C, UIKit) | MVVM, Combine, Core Data | HealthKit | CI/CD</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Pravesh%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI%20%7C%20HealthKit&descAlignY=55&descSize=18" width="100%"/>
+<a href="https://www.linkedin.com/in/pravesh-dubey-ios/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://praveshdubey99.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="mailto:praveshdubey99@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<img src="https://komarev.com/ghpvc/?username=praveshdubey99&style=for-the-badge&color=blueviolet&label=Profile+Views">
+</div>
+<br>
+👋 About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pravesh-dubey-ios/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pravesh%20Dubey-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://praveshdubey99.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome">
-  </a>
-  <a href="mailto:praveshdubey99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+I'm a Senior iOS Developer with 10+ years of experience building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit. I specialize in clean MVVM architecture, reactive code with Combine, and robust local persistence with Core Data.
+
+swiftstruct Pravesh: Developer {
+    let role        = "Senior iOS Developer"
+    let experience  = "10+ years"
+    let focus       = ["Swift", "SwiftUI", "MVVM", "Combine", "HealthKit"]
+    let based       = "Noida, India"
+    let currentJob  = "Think Verse Lab Pvt Ltd"
+    let openTo      = "Senior iOS roles, Health & Fitness apps"
+}
+
+
+🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
+⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
+🏗️ Strong advocate for clean architecture, testable code, and smooth UX
+🌱 Always exploring the latest in SwiftUI and concurrency (async/await)
+
+
+<br>
 
 ---
 
