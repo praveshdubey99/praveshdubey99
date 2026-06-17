@@ -1,15 +1,18 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Pravesh%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20Objective-C%20%7C%20Swift%20%7C%20SwiftUI%20%7C&descAlignY=55&descSize=18" width="100%"/>
-<h1 align="center">Hi 👋, I'm Pravesh Dubey</h1>
-<h3 align="center">Senior iOS Developer | 10+ Years in Native iOS (Swift, SwiftUI, Objective-C, UIKit) | MVVM, Combine, Core Data | HealthKit | CI/CD</h3>
-<div/>
+
+<h1>Hi 👋, I'm Pravesh Dubey</h1>
+<h3>Senior iOS Developer | 10+ Years in Native iOS (Swift, SwiftUI, Objective-C, UIKit) | MVVM, Combine, Core Data | HealthKit | CI/CD</h3>
+
 * 🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
 * ⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
 * 🏗️ Strong advocate for clean architecture, testable code, and smooth UX
 * 🌱 Always exploring the latest in SwiftUI and concurrency (async/await)
+
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/pravesh-dubey-ios/">
     <img src="https://img.shields.io/badge/LinkedIn-Pravesh%20Dubey-blue?style=for-the-badge&logo=linkedin">
   </a>
@@ -20,6 +23,9 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -34,7 +40,7 @@
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Swift-Native%20iOS-orange?style=for-the-badge&logo=swift">
   <img src="https://img.shields.io/badge/SwiftUI-Declarative%20UI-blue?style=for-the-badge&logo=swift">
   <img src="https://img.shields.io/badge/Objective--C-Legacy%20%26%20Bridging-blue?style=for-the-badge&logo=apple">
@@ -59,4 +65,8 @@ One-line description of what it does and the impact.
 
 ---
 
+<div align="center">
+
 ⭐️ *Open to Senior iOS Developer opportunities — Swift, SwiftUI, HealthKit, and CI/CD.*
+
+</div>
