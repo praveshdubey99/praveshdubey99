@@ -16,13 +16,10 @@
 
 I'm a Senior iOS Developer with 10+ years of experience building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit. I specialize in clean MVVM architecture, reactive code with Combine, and robust local persistence with Core Data.
 
-
-🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
-⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
-🏗️ Strong advocate for clean architecture, testable code, and smooth UX
-🌱 Always exploring the latest in SwiftUI and concurrency (async/await)
-
-
+* 🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
+* ⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
+* 🏗️ Strong advocate for clean architecture, testable code, and smooth UX
+* 🌱 Always exploring the latest in SwiftUI and concurrency (async/await)
 <br>
 
 ---
