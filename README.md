@@ -16,15 +16,6 @@
 
 I'm a Senior iOS Developer with 10+ years of experience building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit. I specialize in clean MVVM architecture, reactive code with Combine, and robust local persistence with Core Data.
 
-swiftstruct Pravesh: Developer {
-    let role        = "Senior iOS Developer"
-    let experience  = "10+ years"
-    let focus       = ["Swift", "SwiftUI", "MVVM", "Combine", "HealthKit"]
-    let based       = "Noida, India"
-    let currentJob  = "Think Verse Lab Pvt Ltd"
-    let openTo      = "Senior iOS roles, Health & Fitness apps"
-}
-
 
 🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
 ⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
