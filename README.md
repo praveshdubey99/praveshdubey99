@@ -5,6 +5,8 @@
 <h1>Hi 👋, I'm Pravesh Dubey</h1>
 <h3>Senior iOS Developer | 10+ Years in Native iOS (Swift, SwiftUI, Objective-C, UIKit) | MVVM, Combine, Core Data | HealthKit | CI/CD</h3>
 
+</div>
+
 * 🩺 Deep expertise in Health & Fitness apps, including HealthKit integrations
 * ⚙️ Built and maintained CI/CD pipelines for fast, reliable app releases
 * 🏗️ Strong advocate for clean architecture, testable code, and smooth UX
@@ -12,7 +14,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/pravesh-dubey-ios/">
     <img src="https://img.shields.io/badge/LinkedIn-Pravesh%20Dubey-blue?style=for-the-badge&logo=linkedin">
   </a>
@@ -24,17 +26,15 @@
   </a>
 </p>
 
-</div>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🔹 Senior iOS Developer with 10+ years building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit
-- 🔹 Strong focus on **MVVM architecture, Combine, and Core Data**
-- 🔹 Deep experience in **Health & Fitness apps**, including HealthKit integrations
-- 🔹 Set up and maintained **CI/CD pipelines** for smooth, reliable app delivery
-- 🔹 Currently at **Think Verse Lab Pvt Ltd**, based in Noida, India
+🔹 Senior iOS Developer with 10+ years building native iOS apps in Swift, SwiftUI, Objective-C, and UIKit
+🔹 Strong focus on **MVVM architecture, Combine, and Core Data**
+🔹 Deep experience in **Health & Fitness apps**, including HealthKit integrations
+🔹 Set up and maintained **CI/CD pipelines** for smooth, reliable app delivery
+🔹 Currently at **Think Verse Lab Pvt Ltd**, based in Noida, India
 
 ---
 
