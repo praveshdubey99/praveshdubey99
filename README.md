@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061ff,100:60efff&height=200&section=header&text=Pravesh%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20Objective-C%20%7C%20Swift%20%7C%20SwiftUI%20%7C&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,50:B91D73,100:6A11CB&height=200&section=header&text=Pravesh%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20iOS%20Developer%20%7C%20Objective-C%20%7C%20Swift%20%7C%20SwiftUI%20%7C&descAlignY=55&descSize=18" width="100%"/>
 
 <h1>Hi 👋, I'm Pravesh Dubey</h1>
 <h3>Senior iOS Developer | 10+ Years in Native iOS (Swift, SwiftUI, Objective-C, UIKit) | MVVM, Combine, Core Data | HealthKit | CI/CD</h3>
